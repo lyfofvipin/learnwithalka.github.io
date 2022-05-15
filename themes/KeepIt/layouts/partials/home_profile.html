@@ -1,0 +1,13 @@
+<div class="intro">
+   <div class="avatar">
+        <a href="/about"> <img src="/images/profile.jpg"> </a>
+    </div>
+    {{ with .Site.Params.subtitle}}
+    <h2 class="description">
+       {{ . }}
+    </h2>
+    {{ end }}
+    <div class="social-links">
+      {{ partial "social.html" . }}
+    </div>
+</div>

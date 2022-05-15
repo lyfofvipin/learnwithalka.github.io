@@ -1,0 +1,9 @@
+{{ if .Site.Params.socialShare }}
+
+      {{ if .Site.Params.Share.Facebook }}
+        <a href="//www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" title="Share on Facebook">
+          <i class="iconfont icon-facebook"></i>
+        </a>
+        {{ end }}
+
+{{ end }}

@@ -1,0 +1,14 @@
+<footer class="footer">
+        {{ with .Site.Params.Social.Youtubecustom}}
+        <a href="https://www.youtube.com/c/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-youtube"></i></a>
+        {{ end }}
+        {{ with .Site.Params.Social.Instagram }}
+        <a href="https://www.instagram.com/{{.}}/" target="_blank" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-instagram"></i></a> 
+        {{ end }}
+        {{ with .Site.Params.Social.Telegram}}
+        <a href="https://t.me/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-telegram-plane"></i></a>
+        {{ end }}
+        {{ with .Site.Params.Social.Facebook}}
+        <a href="https://facebook.com/{{.}}" rel="me noopener noreffer" target="_blank"><i class="iconfont icon-facebook"></i></a>
+        {{ end }}
+</footer>

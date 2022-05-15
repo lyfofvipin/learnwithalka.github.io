@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Learn With Alka"
+theme = "KeepIt"
+
+[Permalinks]
+ posts = "/:title"
+
+[menu]
+  [[menu.main]]
+    name = "Biology"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 3
+
+[params.social]
+    Youtubecustom = "learnwithalkayadav"
+    Instagram = "learnwithalka"
+    Facebook = "learnwithalka"
+    Telegram = "learnwithalka"
+
+[params.share]
+Youtubecustom = true
+Telegram = true
+Instagram = true
+Facebook = true
+
+[author]
+  name = "Kumar Vipin Yadav"
+
+avatar = "/images/profile.jpg"
+home_mode = "post"
