@@ -39,3 +39,5 @@ Facebook = true
 
 avatar = "/images/profile.jpg"
 home_mode = "post"
+relativeURLs = true
+canonifyURLs = true
