@@ -2,7 +2,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>http://example.org/a/</loc>
+      <loc>https://learnwithalka.github.io/a/</loc>
       
       <lastmod>2022-05-15T23:32:13+05:30</lastmod>
       
@@ -12,7 +12,7 @@
     </url>
   
     <url>
-      <loc>http://example.org/categories/</loc>
+      <loc>https://learnwithalka.github.io/categories/</loc>
       
       
       
@@ -20,7 +20,7 @@
     </url>
   
     <url>
-      <loc>http://example.org/</loc>
+      <loc>https://learnwithalka.github.io/</loc>
       
       
       
@@ -28,7 +28,7 @@
     </url>
   
     <url>
-      <loc>http://example.org/tags/</loc>
+      <loc>https://learnwithalka.github.io/tags/</loc>
       
       
       
