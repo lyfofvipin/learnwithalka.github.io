@@ -9,4 +9,5 @@ featured_image:
 author: "Kumar Vipin Yadav"
 ---
 
-test
+{{ partial "load_videos.html" .}}
+{{ .Site.Data.videos | markdownify }}
