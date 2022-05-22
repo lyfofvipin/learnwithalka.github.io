@@ -9,18 +9,33 @@ theme = "KeepIt"
 [menu]
   [[menu.main]]
     name = "Biology"
-    url = "/posts/"
+    url = "/biology/"
     weight = 1
 
   [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Chemistry"
+    url = "/chemistry/"
     weight = 2
+
+  [[menu.main]]
+    name = "Physics"
+    url = "/physics/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Question Papers"
+    url = "/question_papers/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Recall Notices"
+    url = "/recall_notice/"
+    weight = 5
 
   [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 3
+    weight = 6
 
 [params.social]
     Youtubecustom = "learnwithalkayadav"

@@ -1,5 +1,14 @@
-{{ range $key, $value := .Site.Data.videos }}
-        {{ range $k, $v := . }}
-        <iframe width="1200" height="500" src="https://www.youtube.com/embed/{{ $k }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        {{ end }}
+{{ if eq .RelPermalink "/"}}
+{{ range .Site.Data.latest_video.items }}
+    <div class="post-warp">
+        <div class="post-content">
+            {{ .snippet.title }}<br>
+            <a href="https://www.youtube.com/watch?v={{ .id.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <br>
+            <hr>
+        </div>
+    </div>
 {{ end }}
+{{ end }}
+{{ partial "footer" . }}
+
