@@ -1,0 +1,47 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "4mSHkPpE2TjUf-hj37W44AgJP-Y",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "BBA4qrbFxyWPX9ZhLcvUunoNvCU",
+      "id": "UExNRXEzU1BTcllyMno1dlNfVW1jUFJ3NHFsN1l6eDU1SS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-03-30T07:21:58Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "DSSSB TGT Natural Science | Physics Lecture 01 | Motion | #TGT #DSSSB",
+        "description": "DSSSB TGT Natural Science | Physics Lecture 01 | Motion | #TGT #DSSSB\n\nFollow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZNdJvISTB7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZNdJvISTB7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZNdJvISTB7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ZNdJvISTB7o"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  }
+}
