@@ -2,7 +2,7 @@
 {{ range .Site.Data.latest_video.items }}
     <div class="post-warp">
         <div class="post-content">
-            {{ .snippet.title }}<br>
+            <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
             <a href="https://www.youtube.com/watch?v={{ .id.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
             <br>
             <hr>
@@ -10,5 +10,71 @@
     </div>
 {{ end }}
 {{ end }}
+
+{{ if eq .RelPermalink "/biology/"}}
+{{ range .Site.Data.biology_playlist_videos.items }}
+    <div class="post-warp">
+        <div class="post-content">
+            <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
+            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <br>
+            <hr>
+        </div>
+    </div>
+{{ end }}
+{{ end }}
+
+{{ if eq .RelPermalink "/chemistry/"}}
+{{ range .Site.Data.chemistry_playlist_videos.items }}
+    <div class="post-warp">
+        <div class="post-content">
+            <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
+            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <br>
+            <hr>
+        </div>
+    </div>
+{{ end }}
+{{ end }}
+
+{{ if eq .RelPermalink "/physics/"}}
+{{ range .Site.Data.physics_playlist_videos.items }}
+    <div class="post-warp">
+        <div class="post-content">
+            <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
+            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <br>
+            <hr>
+        </div>
+    </div>
+{{ end }}
+{{ end }}
+
+{{ if eq .RelPermalink "/question_papers/"}}
+{{ range .Site.Data.question_papers_playlist_videos.items }}
+    <div class="post-warp">
+        <div class="post-content">
+            <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
+            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <br>
+            <hr>
+        </div>
+    </div>
+{{ end }}
+{{ end }}
+
+{{ if eq .RelPermalink "/recall_notice/"}}
+{{ range .Site.Data.recall_notice_playlist_videos.items }}
+    <div class="post-warp">
+        <div class="post-content">
+            <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
+            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <br>
+            <hr>
+        </div>
+    </div>
+{{ end }}
+{{ end }}
+
 {{ partial "footer" . }}
 
