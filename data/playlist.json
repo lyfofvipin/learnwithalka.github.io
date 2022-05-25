@@ -1,0 +1,20 @@
+{
+    "playlists": {
+        "biology":{
+            "playlistId": "PLMEq3SPSrYr1sfjL16qwV03E-e_YfSnqE"
+        },
+        "chemistry":{
+            "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE"
+        },
+        "physics":{
+            "playlistId": "PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I"
+        },
+        "question_papers":{
+            "playlistId": "PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98"
+        },
+        "recall_notice":{
+            "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC"
+        }
+        
+    }
+}
