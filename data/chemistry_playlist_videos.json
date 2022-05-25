@@ -1,39 +1,499 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "4mSHkPpE2TjUf-hj37W44AgJP-Y",
+  "etag": "BqZ4gtImc3xWJC7-9A3TbPFfEhI",
   "items": [
     {
       "kind": "youtube#playlistItem",
-      "etag": "BBA4qrbFxyWPX9ZhLcvUunoNvCU",
-      "id": "UExNRXEzU1BTcllyMno1dlNfVW1jUFJ3NHFsN1l6eDU1SS41NkI0NEY2RDEwNTU3Q0M2",
+      "etag": "vEHEm4cENlUPMQbRIVEw5GPvUR0",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
-        "publishedAt": "2022-03-30T07:21:58Z",
+        "publishedAt": "2022-05-17T15:08:11Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "DSSSB TGT Natural Science | Physics Lecture 01 | Motion | #TGT #DSSSB",
-        "description": "DSSSB TGT Natural Science | Physics Lecture 01 | Motion | #TGT #DSSSB\n\nFollow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "title": "Atoms And Molecules - 02 | Chemistry Lecture 10 | DSSSB TGT Natural Science | KVS | CTET | REET",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#dsssb\n#tgt\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ZNdJvISTB7o/default.jpg",
+            "url": "https://i.ytimg.com/vi/zVIRy-u7iNA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ZNdJvISTB7o/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zVIRy-u7iNA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ZNdJvISTB7o/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/zVIRy-u7iNA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
-        "playlistId": "PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
         "position": 0,
         "resourceId": {
           "kind": "youtube#video",
-          "videoId": "ZNdJvISTB7o"
+          "videoId": "zVIRy-u7iNA"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "3tBgJFwJ2jzNWSitXj2vzau5uL4",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS45NDk1REZENzhEMzU5MDQz",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:08:05Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Atoms And Molecules - 01 | Chemistry Lecture 09 | DSSSB TGT Natural Science | KVS | CTET | REET",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#dsssb\n#tgt\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary\n\n#ctet\n#ctet2022\n#ctetpreparationinhindi\n#ctet2022onlineclasses\n#ctetpreparation\n#ctetexamdates\n#ctetnotice\n#ctetlvl1\n#ctetlvl2\n\n\nCTET\nCTET Preparation\nCTET Preparation\nCTET Preparation 2022\nCTET Preparation EVS\nCTET Preparation science\nCTET 2022\nCTET 2022 preparation\nCTET 2022 online classes\nCTET online classes 2022\nCTET 2022 classes\nCTET online classes\nCTET Preparation 2022\nCTET science\nCTET EXAM\nCTET LEVEL 1\nCTET LEVEL 2\nCTET EXAM Dates\nCTET Notification",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2XqAvRnQxFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2XqAvRnQxFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2XqAvRnQxFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2XqAvRnQxFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2XqAvRnQxFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "2XqAvRnQxFA"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wpuBq0GD4EDpMN-H5pEosV46aYE",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS5DQUNERDQ2NkIzRUQxNTY1",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:59Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Is Matter Surrounding US Pure? - 03 | Chemistry Lecture 08 | DSSSB TGT Natural Science | #TGT #DSSSB",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BZQShi-DomE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BZQShi-DomE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BZQShi-DomE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BZQShi-DomE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BZQShi-DomE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BZQShi-DomE"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "D2W9zHOFZzV_lGeVp7xykWe44Hk",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS41MzJCQjBCNDIyRkJDN0VD",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:47Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Is Matter Surrounding US Pure? - 02 | Chemistry Lecture 07 | DSSSB TGT Natural Science | #TGT #DSSSB",
+        "description": "DSSSB TGT Natural Science | Chemistry Lecture 07 | Is Matter Surrounding US Pure? - 02 | #TGT \n\nFollow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_YDXLAf_D6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_YDXLAf_D6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_YDXLAf_D6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_YDXLAf_D6I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_YDXLAf_D6I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_YDXLAf_D6I"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EpWYnWG0X75dKR7XCEKNcMFer-g",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS4xMkVGQjNCMUM1N0RFNEUx",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:35Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Is Matter Surrounding US Pure? - 01 | Chemistry Lecture 06 | DSSSB TGT Natural Science | #TGT #DSSSB",
+        "description": "DSSSB TGT Natural Science | Chemistry Lecture 06 | Is Matter Surrounding US Pure? - 01 | #TGT \n\nFollow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lpP92usbiDE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lpP92usbiDE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lpP92usbiDE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lpP92usbiDE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lpP92usbiDE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "lpP92usbiDE"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1dBUey2sE2KHWBkwYmWJexXK_us",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS4wOTA3OTZBNzVEMTUzOTMy",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:26Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Matters Surrounding US - 02 | Chemistry Lecture 05 | DSSSB TGT Natural Science |  #TGT #DSSSB",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cLYRP58bcC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cLYRP58bcC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cLYRP58bcC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cLYRP58bcC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cLYRP58bcC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cLYRP58bcC8"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G1qYK3Dp--MlsxEE5VjWBN6iv4M",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS41MjE1MkI0OTQ2QzJGNzNG",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:19Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Matters Surrounding US - 01 | Chemistry Lecture 04 | DSSSB TGT Natural Science |  #TGT #DSSSB",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_hTvdbOYens/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_hTvdbOYens/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_hTvdbOYens/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_hTvdbOYens/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_hTvdbOYens/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "_hTvdbOYens"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "OAFGCZgBqqjgMjUlHdFl8FOI0Jo",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS4wMTcyMDhGQUE4NTIzM0Y5",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:14Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Metal and Non-Metal - 03 | Chemistry Lecture 03 | DSSSB TGT Natural Science | #TGT #DSSSB",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wlv11IV4Hpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wlv11IV4Hpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wlv11IV4Hpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wlv11IV4Hpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wlv11IV4Hpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wlv11IV4Hpc"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "F0-Oh_bwX5GKs2IURnEZFYlkf2Y",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS4yODlGNEE0NkRGMEEzMEQy",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:08Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Metal and Non-Metal - 02 | Chemistry Lecture 02 | DSSSB TGT Natural Science | #TGT #DSSSB",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cdllEDjIf2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cdllEDjIf2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cdllEDjIf2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cdllEDjIf2Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cdllEDjIf2Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cdllEDjIf2Q"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YTitxcqtnrKkLsOMs2DuCQWdy6k",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS41NkI0NEY2RDEwNTU3Q0M2",
+      "snippet": {
+        "publishedAt": "2022-05-17T15:07:01Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Metal and Non-Metal - 01 | Chemistry Lecture 01 | DSSSB TGT Natural Science | #TGT #DSSSB",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#last_year_question_papers\n#physics_questions\n#science_questions\n#dsssb_tgt_question_papers\n#kvs_question_papers\n#mcd_question_papers\n#mcd_last_year_question_papers\n#prt_question_papers\n#prt_last_year_question_papers\n#reet_question_papers\n#physics_lectures\n#biology_lectures\n#chemistry_lectures\n#reet_lectures\n#kvs_lectures\n#dsssb_tgt_lectures\n#reet\n#kvs\n#tgt_preparation\n#reet_preparation\n#kvs_preparation\n#DOE\n#sarkarinaukri\n#sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7hTHavP7q-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7hTHavP7q-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7hTHavP7q-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7hTHavP7q-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7hTHavP7q-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "7hTHavP7q-8"
+        },
+        "videoOwnerChannelTitle": "Learn With Alka",
+        "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KpszDAZuvW_5SUnLOngJ09w1DoU",
+      "id": "UExNRXEzU1BTcllyMTJwX3U2QnhjNE8tcVlmY1Q5TXdKRS40NzZCMERDMjVEN0RFRThB",
+      "snippet": {
+        "publishedAt": "2022-05-24T06:13:25Z",
+        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
+        "title": "Molecular Mass and Mole Concept |Chemistry Lecture 11| DSSSB TGT Natural Science | KVS | CTET | REET",
+        "description": "Follow Me On\nInstagram: https://www.instagram.com/learnwithalka\nFacebook:  https://www.facebook.com/learnwithalka\nTelegram: https://t.me/learnwithalka\nPut Your queries in the comment box 🙂.\n\nPrevious Year Solved Papers Playlist:\nhttps://www.youtube.com/watch?v=-_qjbN5ZhYs&list=PLMEq3SPSrYr2RWHM2Ynp3Ky5cZozkXU98\n\nBiology Lectures Playlist:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\nChemistry Lectures Playlist:\nhttps://www.youtube.com/watch?v=7hTHavP7q-8&list=PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE\n\nPhysics Lectures Playlist:\nhttps://www.youtube.com/watch?v=ZNdJvISTB7o&list=PLMEq3SPSrYr2z5vS_UmcPRw4ql7Yzx55I\n\nRecall Notice Playlists:\nhttps://www.youtube.com/watch?v=VHfERjvAWxs&list=PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC\n\n#chemistry_lectures #reet_lectures #kvs_lectures #dsssb_tgt_lectures #dsssb #tgt #reet #kvs #tgt_preparation #reet_preparation #kvs_preparation #DOE #sarkarinaukri #sarkariteacher\n\nMost Frequently Asked Questions:\nteacher recruitment 2022\ndsssb tgt vacancy 2022\nvacancy in delhi\nTGT result date\nexam dates\nBiology Lectures\nPhysics Lectures\nBio Lectures\nChemistry Lectures\ndsssb tgt selection process\ndsssb tgt eligibility\nreet eligibility\nKVS eligibility\ndsssb tgt syllabus\nreet syllabus\nkvs syllabus\ndsssb tgt exam pattern\nreet exam pattern\nkvs exam pattern\ndsssb exam date\nreet exam date\ndsssb tgt vacancy notification\ndsssb tgt age criteria\ndsssb pgt age criteria\nDSSSB TGT Salary\nDSSSB PGT Salary",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z-V_dI9IDTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z-V_dI9IDTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z-V_dI9IDTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Learn With Alka",
+        "playlistId": "PLMEq3SPSrYr12p_u6Bxc4O-qYfcT9MwJE",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Z-V_dI9IDTg"
         },
         "videoOwnerChannelTitle": "Learn With Alka",
         "videoOwnerChannelId": "UC6hVs0MVTC5ZbKWdaRSB22A"
@@ -41,7 +501,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 1,
-    "resultsPerPage": 5
+    "totalResults": 11,
+    "resultsPerPage": 50
   }
 }
