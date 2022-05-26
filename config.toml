@@ -57,7 +57,7 @@ Facebook = true
 [author]
   name = "Kumar Vipin Yadav"
 
-avatar = "/images/profile.jpg"
+avatar = "/images/profile.png"
 home_mode = "post"
 relativeURLs = true
 canonifyURLs = true
