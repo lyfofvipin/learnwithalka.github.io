@@ -22,7 +22,7 @@ class YoutubeApis():
         self.write_data("./data/{0}_playlist_videos.json".format(playlist_name), api_info)
 
     def save_data(self):
-        # self.save_all_latest_video()
+        self.save_all_latest_video()
         with open("./data/playlist.json") as playlist_json: playlists = playlist_json.read()
         for playlist_name in loads(playlists).get('playlists').keys():
             playlist_id = loads(playlists).get('playlists').get(playlist_name).get('playlistId')
