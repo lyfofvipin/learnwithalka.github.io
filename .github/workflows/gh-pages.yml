@@ -27,7 +27,7 @@ jobs:
         run: python find_video_info.py ${{ secrets.API_KEY_FOR_YT_API }}
 
       - name: Update files to GitHub Repo
-        run: git status; git add .; git config --local user.name "Kumar Vipin Yadav"; git config --local user.email "kumarvipinyadav369@gmail.com"; git commit -m "Updating Json data";git push origin master
+        run: git status; git add .; git config --local user.name "Kumar Vipin Yadav"; git config --local user.email "kumarvipinyadav369@gmail.com"; git commit -m "Updating Json data";git push origin main
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
