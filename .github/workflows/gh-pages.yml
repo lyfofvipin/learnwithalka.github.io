@@ -21,10 +21,13 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo server
 
       - name: Update Json
-        run: python --version
+        run: python find_video_info.py ${{ secrets.API_KEY_FOR_YT_API }}
+
+      - name: Update files to GitHub Repo
+        run: git status
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
