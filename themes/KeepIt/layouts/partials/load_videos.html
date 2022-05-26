@@ -16,7 +16,7 @@
     <div class="post-warp">
         <div class="post-content">
             <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
-            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <a href="https://www.youtube.com/watch?v={{ .snippet.resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
             <br>
             <hr>
         </div>
@@ -29,7 +29,7 @@
     <div class="post-warp">
         <div class="post-content">
             <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
-            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <a href="https://www.youtube.com/watch?v={{ .snippet.resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
             <br>
             <hr>
         </div>
@@ -42,7 +42,7 @@
     <div class="post-warp">
         <div class="post-content">
             <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
-            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <a href="https://www.youtube.com/watch?v={{ .snippet.resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
             <br>
             <hr>
         </div>
@@ -55,7 +55,7 @@
     <div class="post-warp">
         <div class="post-content">
             <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
-            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <a href="https://www.youtube.com/watch?v={{ .snippet.resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
             <br>
             <hr>
         </div>
@@ -68,13 +68,26 @@
     <div class="post-warp">
         <div class="post-content">
             <h5 style="text-align: center;">{{ .snippet.title }}<br></h5>
-            <a href="https://www.youtube.com/watch?v={{ .resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
+            <a href="https://www.youtube.com/watch?v={{ .snippet.resourceId.videoId }}" target="_blank"><img style="width: 280px;" src="{{ .snippet.thumbnails.medium.url }}" alt="{{ .snippet.title }}"></a>
             <br>
             <hr>
         </div>
     </div>
 {{ end }}
 {{ end }}
+
+{{ if eq .RelPermalink "/notes/"}}
+    {{ range $k, $v := .Site.Data.notes_video }}
+    <div class="post-warp">
+        <div class="post-content">
+            <a href="https://www.youtube.com/watch?v={{ $k }}" target="_blank">{{ .title }}</a><br>
+            <b><a href="{{ .notes_url }}" target="_blank">Click Hear For The Notes</a></b>
+            <hr>
+        </div>
+    </div>
+    {{ end }}
+{{ end }}
+
 
 {{ partial "footer" . }}
 
