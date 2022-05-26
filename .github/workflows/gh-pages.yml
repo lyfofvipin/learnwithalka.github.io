@@ -21,7 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo build
 
       - name: Update Json
         run: python find_video_info.py ${{ secrets.API_KEY_FOR_YT_API }}

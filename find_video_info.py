@@ -13,7 +13,6 @@ class YoutubeApis():
         with open(file_path, "w") as file_to_write: file_to_write.write(api_response.text)
 
     def save_all_latest_video(self):
-        print(self.video_api.format(self.channel_id, self.api_key))
         api_info = requests.get(self.video_api.format(self.channel_id, self.api_key))
         self.write_data("./data/latest_video.json", api_info)
 
