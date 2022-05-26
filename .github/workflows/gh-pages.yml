@@ -24,7 +24,7 @@ jobs:
         run: hugo --minify
 
       - name: Update Json
-        run: git status; git add .
+        run: python --version
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
