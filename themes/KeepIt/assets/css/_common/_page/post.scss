@@ -13,6 +13,8 @@
     .post-title {
         font-size: 2em;
         line-height: 1.5em;
+        margin-top: 75px;
+        margin-bottom: -100px;
     }
 
     .post-meta {
@@ -38,9 +40,12 @@
 
     .post-content {
 
+        padding-top: 2rem;
+
         h2,
         h3,
         h4,
+        h5,
         h6 {
             padding-top: .8em;
             padding-bottom: .3em;
