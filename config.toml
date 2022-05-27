@@ -1,6 +1,6 @@
 baseURL = "https://learnwithalka.github.io/"
 languageCode = "en-us"
-title = "Kajal Dhami"
+title = "Learn With Alka"
 theme = "KeepIt"
 
 [Permalinks]
@@ -57,7 +57,7 @@ Facebook = true
 [author]
   name = "Kumar Vipin Yadav"
 
-avatar = "/images/profile1.png"
+avatar = "/images/profile.png"
 home_mode = "post"
 relativeURLs = true
 canonifyURLs = true
