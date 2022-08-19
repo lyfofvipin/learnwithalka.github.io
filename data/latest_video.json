@@ -1,351 +1,351 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "nlGTJ_-J7uqsTt8VwDzrQIohXMc",
+  "etag": "oVr-rebgpkmFLdwIyU6rTDIUGRM",
   "nextPageToken": "CAoQAA",
-  "regionCode": "US",
+  "regionCode": "IN",
   "pageInfo": {
-    "totalResults": 106,
+    "totalResults": 132,
     "resultsPerPage": 10
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "42YnGnEm97RYhj2ECt21wl-b75A",
+      "etag": "ZXayD323uIlgczol0GTRWB0GblM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "dLWLY0oLdEs"
+        "videoId": "m0Kpl90IT4Y"
       },
       "snippet": {
-        "publishedAt": "2022-07-08T04:43:09Z",
+        "publishedAt": "2022-08-17T06:05:34Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT Maths Male Recall Notice| Post code 38/21| Edossier | Remarks solution #doe #dsssb #tgt #doe",
+        "title": "How to clear DOE deficiency? | CTET Deficiency, Address Deficiency, NCL Certificate Deficiency #doe",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/dLWLY0oLdEs/default.jpg",
+            "url": "https://i.ytimg.com/vi/m0Kpl90IT4Y/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/dLWLY0oLdEs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/m0Kpl90IT4Y/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/dLWLY0oLdEs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/m0Kpl90IT4Y/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-08T04:43:09Z"
+        "publishTime": "2022-08-17T06:05:34Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Qyrxne6zMroLer49Cd9vns5bQ0Y",
+      "etag": "n8CHhXCyqgTqfwNmB3zUUpLxzEk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "e0xVr2pvMTc"
+        "videoId": "BNzh18Esvcc"
       },
       "snippet": {
-        "publishedAt": "2022-07-07T15:27:38Z",
+        "publishedAt": "2022-08-16T15:49:21Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT Hindi Male Recall Notice | Post Code 34/21 | Remarks solution # DOE #tgt #dsssb #sarkariteacher",
+        "title": "Assistant Teacher ( Primary ) Result | Edossier cutoff | Post code 47/21 | #dsssb #tgt #tgtpgtexam",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/e0xVr2pvMTc/default.jpg",
+            "url": "https://i.ytimg.com/vi/BNzh18Esvcc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/e0xVr2pvMTc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BNzh18Esvcc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/e0xVr2pvMTc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/BNzh18Esvcc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-07T15:27:38Z"
+        "publishTime": "2022-08-16T15:49:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "fgWpF82Hby64-bOUPerqYuHXW2A",
+      "etag": "KmBuzGDL7vudaHAbI3CPGOhjkfU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "prK83X9aMLg"
+        "videoId": "lQJ-jQSsLQs"
       },
       "snippet": {
-        "publishedAt": "2022-07-05T14:38:20Z",
+        "publishedAt": "2022-08-16T08:17:59Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT English Female Revised Recall Notice | Tentative Dates | Post code 51/21 #doe #dsssb #tgt",
+        "title": "How  To Resolve Subject Clarification Issue | Subject Clarification Issue कैसे Resolve करे #doe #tgt",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/prK83X9aMLg/default.jpg",
+            "url": "https://i.ytimg.com/vi/lQJ-jQSsLQs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/prK83X9aMLg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lQJ-jQSsLQs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/prK83X9aMLg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/lQJ-jQSsLQs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-05T14:38:20Z"
+        "publishTime": "2022-08-16T08:17:59Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Q3ho4EdJqlR9jgQSrGc6mZEuo-c",
+      "etag": "_pSOz3e6LAlKFS_D1M8MDFWsTow",
       "id": {
         "kind": "youtube#video",
-        "videoId": "qK6Dyg56XJw"
+        "videoId": "h3j-hjMwUvk"
       },
       "snippet": {
-        "publishedAt": "2022-07-05T12:30:42Z",
+        "publishedAt": "2022-08-11T06:06:17Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "NVS Vacancy 2022 | NVS Exam Pattern | NVS Age Relaxation | NVS Eligibility Criteria | #nvsexam #tgt",
-        "description": "PDF File : https://t.me/learnwithalka/338 Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: ...",
+        "title": "Acceptance Form kaise bhare | Complete Acceptance Form fill Step By Step | #acceptance #doe #dsssb",
+        "description": "Form PDF: https://t.me/learnwithalka/841 Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/qK6Dyg56XJw/default.jpg",
+            "url": "https://i.ytimg.com/vi/h3j-hjMwUvk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/qK6Dyg56XJw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h3j-hjMwUvk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/qK6Dyg56XJw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/h3j-hjMwUvk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-05T12:30:42Z"
+        "publishTime": "2022-08-11T06:06:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "h0YxHCgWBRZDYF-kQq7fm8qyVSU",
+      "etag": "hMoM8i7vOw1BBtB3xoWoJXBwwYg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "D9_Bliwuylo"
+        "videoId": "Prg_CLfFmTo"
       },
       "snippet": {
-        "publishedAt": "2022-07-02T09:42:22Z",
+        "publishedAt": "2022-08-09T11:36:13Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT Physical Education Teacher Final Result 2021 | TGT Post Code 87/20 Result #doe #dsssb #tgt",
+        "title": "Mass DV | Post Code 36/21, 39/21, 50/21, 52/21, 53/21, 54/21, 87/20 | #doe #document_verification",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/D9_Bliwuylo/default.jpg",
+            "url": "https://i.ytimg.com/vi/Prg_CLfFmTo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/D9_Bliwuylo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Prg_CLfFmTo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/D9_Bliwuylo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Prg_CLfFmTo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-02T09:42:22Z"
+        "publishTime": "2022-08-09T11:36:13Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "LPRYlDBQ4AB31i8xWEuG2z36ePc",
+      "etag": "H15Ms5Dczdy4SGUA2VlSYHSWsIk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "zn15KJ3aJvE"
+        "videoId": "yIKEYBi2VD0"
       },
       "snippet": {
-        "publishedAt": "2022-07-02T06:43:03Z",
+        "publishedAt": "2022-08-04T16:10:38Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT SPECIAL EDUCATOR (PRIMARY) Final Result 2021 | TGT Post Code 32/21 Result #doe #dsssb #tgt",
+        "title": "DOE CTET Issue Resolved | NCTE ने किया DOE को Mail | अब नही मिलेगी CTET ke Deficiency #doe #dsssb",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/zn15KJ3aJvE/default.jpg",
+            "url": "https://i.ytimg.com/vi/yIKEYBi2VD0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/zn15KJ3aJvE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yIKEYBi2VD0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/zn15KJ3aJvE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yIKEYBi2VD0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-07-02T06:43:03Z"
+        "publishTime": "2022-08-04T16:10:38Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "q0pq5PNEFvWp4_CsadUayN_gsKo",
+      "etag": "DhaYD6TqhYhhtOaso2EdrE58I7A",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nOv-UH7ynEI"
+        "videoId": "Qo7PTki4KYQ"
       },
       "snippet": {
-        "publishedAt": "2022-06-30T10:50:14Z",
+        "publishedAt": "2022-07-30T12:22:44Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT English Female Second/Final Recall Notice | Post code 51/21 #doe #dsssb #tgt #tgt_news_today",
+        "title": "TGT Natural Science  Male Final Result | TGT Post Code 35/21 Result #doe #dsssb #dsssb_result_2021",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nOv-UH7ynEI/default.jpg",
+            "url": "https://i.ytimg.com/vi/Qo7PTki4KYQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nOv-UH7ynEI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Qo7PTki4KYQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nOv-UH7ynEI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Qo7PTki4KYQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-30T10:50:14Z"
+        "publishTime": "2022-07-30T12:22:44Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "BpXCDG43cUpn83XB7ab73_UM-Lg",
+      "etag": "TPjmUWTjaCQvEYCQvpfnW_Ngm8k",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pz2SBUktKkM"
+        "videoId": "IYdVQwdtiBw"
       },
       "snippet": {
-        "publishedAt": "2022-06-25T05:18:20Z",
+        "publishedAt": "2022-07-30T09:58:22Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT Assistant Teacher ( NURSERY ) Final Result 2021 | TGT Post Code 43/21 Result #doe #dsssb #tgt",
+        "title": "TGT Math Female Final Result | TGT Post Code 37/21 Result #doe #dsssb #tgt #dsssb_result_2021",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pz2SBUktKkM/default.jpg",
+            "url": "https://i.ytimg.com/vi/IYdVQwdtiBw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pz2SBUktKkM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IYdVQwdtiBw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pz2SBUktKkM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/IYdVQwdtiBw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-25T05:18:20Z"
+        "publishTime": "2022-07-30T09:58:22Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ndtWkNTI89dUsb_2HPEOKS7Erdw",
+      "etag": "swzCG0Rki9jP4lEjW8mpwKgna6I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "nl0mc56ZYI8"
+        "videoId": "erRe6ZVF4KE"
       },
       "snippet": {
-        "publishedAt": "2022-06-24T18:21:17Z",
+        "publishedAt": "2022-07-29T10:38:11Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT Natural Science Male First Recall Notice | Post code 35/21 #doe #dsssb #tgt #tgt_news_today",
+        "title": "How to clear DOE deficiency? | I got deficiency Memo | Marksheet, Subject Combination, CTET Issues",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/nl0mc56ZYI8/default.jpg",
+            "url": "https://i.ytimg.com/vi/erRe6ZVF4KE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/nl0mc56ZYI8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/erRe6ZVF4KE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/nl0mc56ZYI8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/erRe6ZVF4KE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-24T18:21:17Z"
+        "publishTime": "2022-07-29T10:38:11Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "ZhSKxWjw1epzXMnbLYuhSUrcpCk",
+      "etag": "VJ8zt7PtUE_GGS2iJLo_VJQDOyw",
       "id": {
         "kind": "youtube#video",
-        "videoId": "TKmSm75tiHw"
+        "videoId": "WmKKqFyPHVo"
       },
       "snippet": {
-        "publishedAt": "2022-06-22T10:26:21Z",
+        "publishedAt": "2022-07-29T06:49:28Z",
         "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "TGT Math Male First Recall Notice | Post code 38/21  | TGT Recall Notice Released #doe #dsssb #tgt",
+        "title": "TGT Math Male Final Result | TGT Post Code 38/21 Result #doe #dsssb #tgt #dsssb_result_2021",
         "description": "Follow Me On Instagram: https://www.instagram.com/learnwithalka Facebook: https://www.facebook.com/learnwithalka Telegram: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/TKmSm75tiHw/default.jpg",
+            "url": "https://i.ytimg.com/vi/WmKKqFyPHVo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/TKmSm75tiHw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WmKKqFyPHVo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/TKmSm75tiHw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/WmKKqFyPHVo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
         "channelTitle": "Learn With Alka",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-22T10:26:21Z"
+        "publishTime": "2022-07-29T06:49:28Z"
       }
     }
   ]

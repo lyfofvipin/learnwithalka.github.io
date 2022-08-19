@@ -1,6 +1,6 @@
 {
   "kind": "youtube#playlistItemListResponse",
-  "etag": "P0NeBmnKn-1ELvDtvBtY-d0DiEo",
+  "etag": "fSzv8hWReSiKiKQ_p6oMrHVg9W8",
   "items": [
     {
       "kind": "youtube#playlistItem",
@@ -478,26 +478,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "5FJtnqCCTFSovEhWy8zewV2sw48",
-      "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy41Mzk2QTAxMTkzNDk4MDhF",
-      "snippet": {
-        "publishedAt": "2022-06-11T06:57:28Z",
-        "channelId": "UC6hVs0MVTC5ZbKWdaRSB22A",
-        "title": "Private video",
-        "description": "This video is private.",
-        "thumbnails": {},
-        "channelTitle": "Learn With Alka",
-        "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 12,
-        "resourceId": {
-          "kind": "youtube#video",
-          "videoId": "xSF8alLhCD4"
-        }
-      }
-    },
-    {
-      "kind": "youtube#playlistItem",
-      "etag": "7CYoa7ICAena6aVQX9jBGOcF_RM",
+      "etag": "_zk8512hEwuS4sFNzJfLIwjLsGQ",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy41NkI0NEY2RDEwNTU3Q0M2",
       "snippet": {
         "publishedAt": "2022-04-19T06:01:26Z",
@@ -523,7 +504,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 13,
+        "position": 12,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "VHfERjvAWxs"
@@ -534,7 +515,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "2Jv8V8dFXhg_xczDVzyiprGnvPY",
+      "etag": "O0Wye6JC3Ul5cZc4tZZsT3d1ptI",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy4yODlGNEE0NkRGMEEzMEQy",
       "snippet": {
         "publishedAt": "2022-04-19T06:02:01Z",
@@ -560,7 +541,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 14,
+        "position": 13,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ubmFnYBnSJY"
@@ -571,7 +552,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "1w_ds3m0oddCtCUlwQkJSaNGk-g",
+      "etag": "R2PbDwv65DNrHTFIkF0w0j3nkWE",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy4wMTcyMDhGQUE4NTIzM0Y5",
       "snippet": {
         "publishedAt": "2022-04-19T06:02:39Z",
@@ -597,7 +578,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 15,
+        "position": 14,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "niZJWPak3fo"
@@ -608,7 +589,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "jBktvtBSo2ovWmL4q1LpKp-z3M0",
+      "etag": "B4i9ORlE4pGIXC9o2Vsxmd37xmg",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy41MjE1MkI0OTQ2QzJGNzNG",
       "snippet": {
         "publishedAt": "2022-04-19T06:02:39Z",
@@ -634,7 +615,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 16,
+        "position": 15,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "ShxcDpCtvyc"
@@ -645,7 +626,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "XQEKX2CZDBGkrMSLFuOomfv1j6k",
+      "etag": "PmzktbEHhLRZoetC3m5cIWpz8og",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy4wOTA3OTZBNzVEMTUzOTMy",
       "snippet": {
         "publishedAt": "2022-04-19T06:02:39Z",
@@ -671,7 +652,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 17,
+        "position": 16,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "jf96B2rm600"
@@ -682,7 +663,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "H8QSKGKgRu2gY1ecpMNvoO7XKVE",
+      "etag": "3njNZpriWHdxUxKZYl6_b5jP2u0",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy4xMkVGQjNCMUM1N0RFNEUx",
       "snippet": {
         "publishedAt": "2022-04-19T06:02:39Z",
@@ -708,7 +689,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 18,
+        "position": 17,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "5Npc0m_yCF4"
@@ -719,7 +700,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "VyIdTmthT-SPLrnLlzoWQIVNwHM",
+      "etag": "OcJKPBDOVaiGEMzExjQ3UPqh448",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy41MzJCQjBCNDIyRkJDN0VD",
       "snippet": {
         "publishedAt": "2022-04-22T04:50:28Z",
@@ -745,7 +726,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 19,
+        "position": 18,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "42U1BC23oEI"
@@ -756,7 +737,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "UDqSBXlgnfZ6JW_3HOIC-ogCm7E",
+      "etag": "uMeie_MYlmUrAa_pjM-kUg4Gl5M",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy45NDk1REZENzhEMzU5MDQz",
       "snippet": {
         "publishedAt": "2022-04-23T04:17:34Z",
@@ -782,7 +763,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 20,
+        "position": 19,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "AtFVnYB9F7M"
@@ -793,7 +774,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "F3l_g524alziEFdBNq2ZyuhBytw",
+      "etag": "WQ-kaTGzri7OZvWEjJ1ug5rNSpI",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy5GNjNDRDREMDQxOThCMDQ2",
       "snippet": {
         "publishedAt": "2022-04-26T09:50:11Z",
@@ -819,7 +800,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 21,
+        "position": 20,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Q3zdpKmL9YI"
@@ -830,7 +811,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "JfwcjKEEY3XUN_sesr61xE5I9Bs",
+      "etag": "uZj5MyIiBcAVE0ISN8H3selyn8A",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy40NzZCMERDMjVEN0RFRThB",
       "snippet": {
         "publishedAt": "2022-05-12T14:02:28Z",
@@ -866,7 +847,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 22,
+        "position": 21,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "HhxM8CINv8k"
@@ -877,7 +858,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "q4G0nLutrPpqm5-uzc_-E1LD97A",
+      "etag": "O_-rsIZyCqFZhbyn8ushJNhZTio",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy5EMEEwRUY5M0RDRTU3NDJC",
       "snippet": {
         "publishedAt": "2022-05-12T14:25:17Z",
@@ -913,7 +894,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 23,
+        "position": 22,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "agFKWqP8wU4"
@@ -924,7 +905,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "LGbjTIDfrtAN5RXrSme21Q2wef8",
+      "etag": "NtlIyr_jNYqh7x971ClnwUlLmcI",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy45ODRDNTg0QjA4NkFBNkQy",
       "snippet": {
         "publishedAt": "2022-05-14T06:03:59Z",
@@ -960,7 +941,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 24,
+        "position": 23,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "Hj_GrnByBhw"
@@ -971,7 +952,7 @@
     },
     {
       "kind": "youtube#playlistItem",
-      "etag": "YGU1N95nVQ8o_qzm63R4qsZlzeY",
+      "etag": "NMZFIf_iAlSzIwsDq7datY1ckSI",
       "id": "UExNRXEzU1BTcllyMll2UXgwR2pMeTFPMV9LZ0Jrc29GQy4zMDg5MkQ5MEVDMEM1NTg2",
       "snippet": {
         "publishedAt": "2022-05-14T06:30:04Z",
@@ -1007,7 +988,7 @@
         },
         "channelTitle": "Learn With Alka",
         "playlistId": "PLMEq3SPSrYr2YvQx0GjLy1O1_KgBksoFC",
-        "position": 25,
+        "position": 24,
         "resourceId": {
           "kind": "youtube#video",
           "videoId": "SIiKVi6R0IU"
@@ -1018,7 +999,7 @@
     }
   ],
   "pageInfo": {
-    "totalResults": 26,
+    "totalResults": 25,
     "resultsPerPage": 50
   }
 }
